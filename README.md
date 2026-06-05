@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Matteo, an IT Monitoring Engineer focused on infrastructure monitoring, automation, and observability.
-I work with Zabbix, Linux, Windows, PowerShell, Bash, Python, and open-source monitoring tools to build custom checks, templates, and automation scripts.
+I work with Zabbix and other monitoring tools to build custom checks, templates, and automation scripts.
 
 ## 🔎 Main Focus
 
