@@ -35,7 +35,3 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 
 - **Zabbix automation**  
   Custom scripts and integrations for monitoring automation.
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matte0398&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
