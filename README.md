@@ -1,12 +1,16 @@
 # Hi, I'm Matteo 👋
 
 I'm an IT Monitoring Engineer focused on infrastructure monitoring, automation, and observability.
-I work with Zabbix, and other monitoring tools to build custom checks, templates, scripts, and integrations for enterprise environments.
+
+I work with Zabbix and other monitoring tools to build custom checks, templates, scripts, and integrations for enterprise environments.
 
 ## 🔎 Main Focus
 
-- Infrastructure Monitoring
-- Observability and Telemetry
+- Infrastructure monitoring
+- Observability and telemetry
+- Zabbix templates and custom checks
+- Monitoring automation
+- Linux and Windows systems
 
 ## 🛠️ Tech Stack
 
@@ -23,11 +27,15 @@ I work with Zabbix, and other monitoring tools to build custom checks, templates
 
 ## 📌 Featured Projects
 
-- **Windows Monitoring Scripts**  
+- **Windows monitoring scripts**  
   PowerShell scripts for Windows infrastructure checks and reporting.
 
-- **Linux Monitoring Utilities**  
+- **Linux monitoring utilities**  
   Bash scripts to collect system information and support monitoring activities.
 
-- **Zabbix Automation**  
+- **Zabbix automation**  
   Custom scripts and integrations for monitoring automation.
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matte0398&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
