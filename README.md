@@ -34,4 +34,4 @@ I work with Zabbix, and other monitoring tools to build custom checks, templates
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matte0398&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matte0398&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
