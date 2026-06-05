@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm Matteo an IT enthusiast with a particular focus on web development and infrastructure monitoring using open-source tools like Nagios and Zabbix.
+I'm Matteo, an IT Monitoring Engineer focused on infrastructure monitoring, automation, and observability.
+I work with Zabbix, Linux, Windows, PowerShell, Bash, Python, and open-source monitoring tools to build custom checks, templates, and automation scripts.
+
+## 🔎 Main Focus
+
+- Infrastructure Monitoring
+- Observability and Telemetry
 
 ## 💻 Tech Stack:
 <p align="left">
@@ -14,5 +20,16 @@ I'm Matteo an IT enthusiast with a particular focus on web development and infra
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva icon">
 </p>
 
+## 📌 Featured Projects
+
+- **Windows Monitoring Scripts**  
+  PowerShell scripts for Windows infrastructure checks and reporting.
+
+- **Linux Monitoring Utilities**  
+  Bash scripts to collect system information and support monitoring activities.
+
+- **Zabbix Automation**  
+  Custom scripts/templates and integrations for monitoring automation.
+ 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meth98&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
