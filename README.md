@@ -27,11 +27,11 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 
 ## 📌 Featured Projects
 
-- **Windows monitoring scripts**  
-  PowerShell scripts for Windows infrastructure checks and reporting.
+- [Zabbix OpenShift Monitoring Template](https://github.com/Matte0398/Zabbix-OpenShift-Monitoring-Template)  
+  Custom Zabbix template designed to monitor OpenShift clusters through REST API and Prometheus/Thanos integrations.
 
-- **Linux monitoring utilities**  
-  Bash scripts to collect system information and support monitoring activities.
+- [Windows Object Count](https://github.com/Matte0398/Win-Object-Count)  
+  PowerShell script for file and directory age checks, useful for custom monitoring scenarios.
 
-- **Zabbix automation**  
-  Custom scripts and integrations for monitoring automation.
+- [Get Linux OS](https://github.com/Matte0398/Get-Linux-OS)  
+  Bash utility that collects Linux system information for troubleshooting and inventory purposes.
