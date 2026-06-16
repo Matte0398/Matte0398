@@ -30,6 +30,9 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 - [Zabbix OpenShift Monitoring Template](https://github.com/Matte0398/Zabbix-OpenShift-Monitoring-Template)  
   Custom Zabbix template designed to monitor OpenShift clusters through REST API and Prometheus/Thanos integrations.
 
+- [Win Export Disk](https://github.com/Matte0398/Win-Export-Disk)  
+  PowerShell utility that collects and exports Windows disk usage information, useful for infrastructure reporting and monitoring activities.
+  
 - [Windows Object Count](https://github.com/Matte0398/Win-Object-Count)  
   PowerShell script for file and directory age checks, useful for custom monitoring scenarios.
 
