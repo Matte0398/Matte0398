@@ -27,13 +27,11 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 - [Zabbix OpenShift Monitoring Template](https://github.com/Matte0398/Zabbix-OpenShift-Monitoring-Template)  
   Custom Zabbix template designed to monitor OpenShift clusters through REST API and Prometheus/Thanos integrations, with discovery rules, custom triggers and enterprise-oriented monitoring logic.
 
 - [Remote System Operations](https://github.com/Matte0398/Remote-System-Operations)  
-  Python-based utility for remote Linux system administration, including SSH command execution, file and directory comparison, remote copy operations and parallel execution.
+  Toolkit for remote system operations on Linux and Windows, including Python-based SSH automation and PowerShell-based remote file copy/update tasks.
 
 - [Win Export Disk](https://github.com/Matte0398/Win-Export-Disk)  
   PowerShell utility that collects Windows disk usage information from local or remote systems and exports the results to CSV reports for inventory, capacity analysis and monitoring support.
