@@ -27,14 +27,22 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 
 ## 📌 Featured Projects
 
+## 📌 Featured Projects
+
 - [Zabbix OpenShift Monitoring Template](https://github.com/Matte0398/Zabbix-OpenShift-Monitoring-Template)  
-  Custom Zabbix template designed to monitor OpenShift clusters through REST API and Prometheus/Thanos integrations.
+  Custom Zabbix template designed to monitor OpenShift clusters through REST API and Prometheus/Thanos integrations, with discovery rules, custom triggers and enterprise-oriented monitoring logic.
+
+- [Remote System Operations](https://github.com/Matte0398/Remote-System-Operations)  
+  Python-based utility for remote Linux system administration, including SSH command execution, file and directory comparison, remote copy operations and parallel execution.
 
 - [Win Export Disk](https://github.com/Matte0398/Win-Export-Disk)  
-  PowerShell utility that collects and exports Windows disk usage information, useful for infrastructure reporting and monitoring activities.
-  
-- [Windows Object Count](https://github.com/Matte0398/Win-Object-Count)  
-  PowerShell script for file and directory age checks, useful for custom monitoring scenarios.
+  PowerShell utility that collects Windows disk usage information from local or remote systems and exports the results to CSV reports for inventory, capacity analysis and monitoring support.
+
+- [Infrastructure-Connectivity-Check](https://github.com/Matte0398/Infrastructure-Connectivity-Check)  
+  PowerShell utility for testing TCP and UDP connectivity between infrastructure systems, useful for firewall validation, troubleshooting and monitoring connectivity checks.
 
 - [Get Linux OS](https://github.com/Matte0398/Get-Linux-OS)  
-  Bash utility that collects Linux system information for troubleshooting and inventory purposes.
+  Bash utility that collects Linux system information such as OS details, kernel version, CPU, memory, disk usage and network interfaces for troubleshooting and inventory purposes.
+
+- [Win Object Count](https://github.com/Matte0398/Win-Object-Count)  
+  PowerShell script for checking file or directory existence and age, useful for monitoring stale files, delayed exports, batch outputs and custom Zabbix checks.
