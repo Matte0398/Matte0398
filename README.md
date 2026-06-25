@@ -34,6 +34,9 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 - [Zabbix OpenShift Monitoring Template](https://github.com/Matte0398/Zabbix-OpenShift-Monitoring-Template)  
   Custom Zabbix template designed to monitor OpenShift clusters through REST API and Prometheus/Thanos integrations, with discovery rules, custom triggers and enterprise-oriented monitoring logic.
 
+- [Zabbix Multi-Agent Architecture](https://github.com/Matte0398/Zabbix-Multi-Agent-Architecture)
+  Practical implementation of a multi-agent Zabbix setup on Linux and Windows hosts, with separate configurations, services and monitoring flows.
+
 - [Remote System Operations](https://github.com/Matte0398/Remote-System-Operations)  
   Toolkit for remote system operations on Linux and Windows, including Python-based SSH automation and PowerShell-based remote file copy/update tasks.
 
