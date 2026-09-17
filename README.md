@@ -49,5 +49,5 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 - [Win Object Count](https://github.com/Matte0398/Win-Object-Count)  
   PowerShell script for checking file or directory existence and age, useful for monitoring stale files, delayed exports, batch outputs and custom Zabbix checks.
   
-- [Get Linux OS](https://github.com/Matte0398/Get-Linux-OS)  
+- [Linux OS Info](https://github.com/Matte0398/Linux-OS-Info)  
   Bash utility that collects Linux system information such as OS details, kernel version, CPU, memory, disk usage and network interfaces for troubleshooting and inventory purposes.
