@@ -40,13 +40,13 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 - [Remote System Operations](https://github.com/Matte0398/Remote-System-Operations)  
   Toolkit for remote system operations on Linux and Windows, including Python-based SSH automation and PowerShell-based remote file copy/update tasks.
 
-- [Win Export Disk](https://github.com/Matte0398/Win-Export-Disk)  
+- [Windows Export Disk](https://github.com/Matte0398/Windows-Export-Disk)  
   PowerShell utility that collects Windows disk usage information from local or remote systems and exports the results to CSV reports for inventory, capacity analysis and monitoring support.
 
 - [Infrastructure Connectivity Check](https://github.com/Matte0398/Infrastructure-Connectivity-Check)  
   PowerShell utility for testing TCP and UDP connectivity between infrastructure systems, useful for firewall validation, troubleshooting and monitoring connectivity checks.
 
-- [Win Object Count](https://github.com/Matte0398/Win-Object-Count)  
+- [Windows Object Count](https://github.com/Matte0398/Windows-Object-Count)  
   PowerShell script for checking file or directory existence and age, useful for monitoring stale files, delayed exports, batch outputs and custom Zabbix checks.
   
 - [Linux OS Info](https://github.com/Matte0398/Linux-OS-Info)  
