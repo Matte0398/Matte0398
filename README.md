@@ -18,7 +18,7 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix">
   <img src="https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white" alt="Nagios">
   <img src="https://img.shields.io/badge/Checkmk-15D1A0?style=flat-square&logo=checkmk&logoColor=white" alt="Checkmk">
- <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/BMC%20Software-FE5000?style=flat-square&logo=bmcsoftware&logoColor=white" alt="BMC Software"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
@@ -31,7 +31,7 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 
 ## 📌 Featured Projects
 
-- [Zabbix OpenShift Monitoring Template](https://github.com/Matte0398/Zabbix-OpenShift-Monitoring-Template)  
+- [Zabbix OpenShift Monitoring](https://github.com/Matte0398/Zabbix-OpenShift-Monitoring)  
   Custom Zabbix template designed to monitor OpenShift clusters through REST API and Prometheus/Thanos integrations, with discovery rules, custom triggers and enterprise-oriented monitoring logic.
 
 - [Zabbix Multi-Agent Architecture](https://github.com/Matte0398/Zabbix-Multi-Agent-Architecture)
