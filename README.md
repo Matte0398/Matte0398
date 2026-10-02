@@ -37,17 +37,17 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 - [Zabbix Multi-Agent Architecture](https://github.com/Matte0398/Zabbix-Multi-Agent-Architecture)
   Practical implementation of a multi-agent Zabbix setup on Linux and Windows hosts, with separate configurations, services and monitoring flows.
 
-- [Remote System Operations](https://github.com/Matte0398/Remote-System-Operations)  
-  Toolkit for remote system operations on Linux and Windows, including Python-based SSH automation and PowerShell-based remote file copy/update tasks.
+- [Remote Operations Toolkit](https://github.com/Matte0398/Remote-Operations-Toolkit)  
+  Toolkit for remote operations on Linux and Windows, including Python-based SSH automation and PowerShell-based remote file copy/update tasks.
 
-- [Windows Export Disk](https://github.com/Matte0398/Windows-Export-Disk)  
+- [Windows Disk Info](https://github.com/Matte0398/Windows-Disk-Info)  
   PowerShell utility that collects Windows disk usage information from local or remote systems and exports the results to CSV reports for inventory, capacity analysis and monitoring support.
 
 - [Infrastructure Connectivity Check](https://github.com/Matte0398/Infrastructure-Connectivity-Check)  
   PowerShell utility for testing TCP and UDP connectivity between infrastructure systems, useful for firewall validation, troubleshooting and monitoring connectivity checks.
 
-- [Windows Object Count](https://github.com/Matte0398/Windows-Object-Count)  
-  PowerShell script for checking file or directory existence and age, useful for monitoring stale files, delayed exports, batch outputs and custom Zabbix checks.
+- [Windows-Object-Age-Monitor](https://github.com/Matte0398/Windows-Object-Age-Monitor)  
+  PowerShell utility for checking file or directory existence and age, useful for monitoring stale files, delayed exports, batch outputs and custom Zabbix checks.
   
-- [Linux OS Info](https://github.com/Matte0398/Linux-OS-Info)  
+- [Linux System Info](https://github.com/Matte0398/Linux-System-Info)  
   Bash utility that collects Linux system information such as OS details, kernel version, CPU, memory, disk usage and network interfaces for troubleshooting and inventory purposes.
