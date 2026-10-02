@@ -34,7 +34,7 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 - [Zabbix OpenShift Monitoring](https://github.com/Matte0398/Zabbix-OpenShift-Monitoring)  
   Custom Zabbix template designed to monitor OpenShift clusters through REST API and Prometheus/Thanos integrations, with discovery rules, custom triggers and enterprise-oriented monitoring logic.
 
-- [Zabbix Multi-Agent Architecture](https://github.com/Matte0398/Zabbix-Multi-Agent-Architecture)
+- [Zabbix Multi-Agent Architecture](https://github.com/Matte0398/Zabbix-Multi-Agent-Architecture)  
   Practical implementation of a multi-agent Zabbix setup on Linux and Windows hosts, with separate configurations, services and monitoring flows.
 
 - [Remote Operations Toolkit](https://github.com/Matte0398/Remote-Operations-Toolkit)  
@@ -46,7 +46,7 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
 - [Infrastructure Connectivity Check](https://github.com/Matte0398/Infrastructure-Connectivity-Check)  
   PowerShell utility for testing TCP and UDP connectivity between infrastructure systems, useful for firewall validation, troubleshooting and monitoring connectivity checks.
 
-- [Windows-Object-Age-Monitor](https://github.com/Matte0398/Windows-Object-Age-Monitor)  
+- [Windows Object Age Monitor](https://github.com/Matte0398/Windows-Object-Age-Monitor)  
   PowerShell utility for checking file or directory existence and age, useful for monitoring stale files, delayed exports, batch outputs and custom Zabbix checks.
   
 - [Linux System Info](https://github.com/Matte0398/Linux-System-Info)  
