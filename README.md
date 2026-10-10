@@ -1,8 +1,8 @@
 # Hi, I'm Matteo 👋
 
-I'm an IT Monitoring Engineer focused on infrastructure monitoring, automation, and observability.
+I'm an IT Monitoring Engineer with strong experience in infrastructure monitoring, automation, and observability, mainly working with Zabbix, Nagios, and custom monitoring solutions.
 
-I work with Zabbix and other monitoring tools to build custom checks, templates, scripts, and integrations for enterprise environments.
+I design and implement checks, templates, scripts, API integrations, and monitoring workflows for enterprise environments. Currently developing my expertise in observability, automation, and cloud monitoring.
 
 ## 🔎 Main Focus
 
@@ -41,9 +41,9 @@ I work with Zabbix and other monitoring tools to build custom checks, templates,
   Toolkit for remote operations on Linux and Windows, including Python-based SSH automation and PowerShell-based remote file copy/update tasks.
 
 - [Windows Disk Info](https://github.com/Matte0398/Windows-Disk-Info)  
-  PowerShell utility that collects Windows disk usage information from local or remote systems and exports the results to CSV reports for inventory, capacity analysis and monitoring support.
+  PowerShell utility that collects Windows fixed disk usage information from local or remote systems and exports the results to CSV reports for inventory, capacity analysis and monitoring support.
 
-- [Infrastructure Connectivity Check](https://github.com/Matte0398/Infrastructure-Connectivity-Check)  
+- [Network Connectivity Check](https://github.com/Matte0398/Network-Connectivity-Check)  
   PowerShell utility for testing TCP and UDP connectivity between infrastructure systems, useful for firewall validation, troubleshooting and monitoring connectivity checks.
 
 - [Windows Object Age Monitor](https://github.com/Matte0398/Windows-Object-Age-Monitor)  
